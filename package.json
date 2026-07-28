@@ -1,0 +1,17 @@
+{
+  "name": "yangfanqie-workbench",
+  "version": "1.0.0",
+  "description": "洋柿子的工作台 - 三端通用的个人工作台 PWA",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
